@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+alt2.py
+alt1.py
